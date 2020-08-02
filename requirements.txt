@@ -2,7 +2,6 @@ Werkzeug
 Flask
 numpy
 Keras
-gevent
 pillow
 h5py
 gunicorn==19.9.0
